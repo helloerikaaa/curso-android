@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99030263-5ab8-40a8-a8e2-f18b2e9f3586" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/ListadoActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/ModificarActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/RegistrarActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/helper/CheckNetworkStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/helper/HttpJsonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_listado.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_modificar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_registrar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/list_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/listado_nombres_peliculas.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/ListadoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/ListadoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/ModificarActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/ModificarActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/helper/CheckNetworkStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/helper/CheckNetworkStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/helper/HttpJsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/java/com/tec/aplicacionapi/helper/HttpJsonParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_listado.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_listado.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_modificar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_modificar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_registrar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/activity_registrar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/listado_nombres_peliculas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aplicaciones/AplicacionAPI/app/src/main/res/layout/listado_nombres_peliculas.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,6 +25,7 @@
     <session id="871814152">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -175,16 +172,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565964786506</updated>
-      <workItem from="1565964791282" duration="13999000" />
+      <workItem from="1565964791282" duration="14590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13999000" />
+    <option name="totallyTimeSpent" value="14590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />

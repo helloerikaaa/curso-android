@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AplicacionAPI</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_ver">Ver listado</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="lb_agregar">Agregar una película</string>
+    <string name="hnt_nombre">Nombre</string>
+    <string name="hnt_desc">Descripción</string>
+    <string name="hnt_genero">Género</string>
+    <string name="hnt_rating">Rating</string>
+</resources>
